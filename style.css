@@ -1,0 +1,23 @@
+body {
+    line-height: 3;
+    margin-left: 5%;
+    background-color: rgb(223, 255, 244);
+}
+h1 {
+    text-align: center;
+    color: rgb(97, 161, 0);
+}
+#primera{
+    text-align: left;
+}
+a {
+    text-align: center;
+}
+input, textarea{
+    background-color: rgba(255, 255, 255, 0.877);
+}
+#resultado{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
